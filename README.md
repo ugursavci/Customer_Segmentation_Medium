@@ -1,1 +1,1 @@
-# Customer_Segmantation_Medium
+# Customer_Segmentation_Medium
